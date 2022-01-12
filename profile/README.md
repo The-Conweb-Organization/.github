@@ -6,6 +6,6 @@ Beside that, this website is the spring board for all the announcements that wil
 
 Some useful links:
 
-- [sketch of the conweb project](https://drive.google.com/file/d/1LZh6Aw0oVw3RT1lRBq8K0SUQi_tKS5M4/view?usp=sharing)
+- [sketch of the conweb project](https://drive.google.com/file/d/1LZh6Aw0oVw3RT1lRBq8K0SUQi_tKS5M4/view?usp=sharing){:target="_blank" :rel="noreferrer"}
 - [project board](https://github.com/orgs/The-Conweb-Organization/projects/1)
 - [conweb project repository](https://github.com/The-Conweb-Organization/conweb)
