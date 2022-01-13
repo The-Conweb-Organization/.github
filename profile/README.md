@@ -8,4 +8,5 @@ Some useful links:
 
 - <a href="https://drive.google.com/file/d/1LZh6Aw0oVw3RT1lRBq8K0SUQi_tKS5M4/view?usp=sharing" target="_blank" rel="noreferrer">sketch of teh conweb project</a>
 - <a href="https://github.com/orgs/The-Conweb-Organization/projects/1" target="_blank" rel="noreferrer">project board</a>
+- <a href="https://www.figma.com/file/vwgfzPmHoXaE4MmveNkLYX/Conweb-Organization?node-id=1%3A14" target="_blank" rel="noreferrer">conweb figma mockup</a>
 - <a href="https://github.com/The-Conweb-Organization/conweb" target="_blank" rel="noreferrer">conweb project repository</a>
